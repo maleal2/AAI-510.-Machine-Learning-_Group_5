@@ -7,7 +7,7 @@ Project Status: [Completed]
 
 ## Installation
 To use this project, first clone the repo on your device using the below command:
-git clone https://github.com/maleal2/Fitness_Tracker_wearable_device_project_Group_1
+git clone [https://github.com/maleal2/Fitness_Tracker_wearable_device_project_Group_1](https://github.com/maleal2/AAI-510.-Machine-Learning-_Group_5.git)
 
 ## Project Introduction
   
